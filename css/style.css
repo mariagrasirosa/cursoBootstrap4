@@ -30,3 +30,11 @@ body {
 .pergunta {
     border-bottom: 1px solid rgba(0,0,0,.2);
 }
+.line li + li{
+    border-bottom: 1px solid rgba(0,0,0,.2);
+
+}
+.line li {
+    padding: 1rem;
+    border-bottom: 1px solid rgba(0,0,0,.2);
+}
